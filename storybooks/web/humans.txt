@@ -1,0 +1,17 @@
+# TEAM
+
+    Lead Developer: Anselmus K A Kurniawan
+    Designer: Desfrianta Salmon
+    Server Admin: Andreas Bara Timur
+
+# THANKS
+
+    React Boilerplate CRA (https://github.com/react-boilerplate/react-boilerplate-cra-template):
+
+# SITE
+
+    Last update: 2021/11/11
+    Language: English / Indonesia
+    Doctype: HTML5
+    IDE: Visual Studio Code, Figma
+    Technology: CSS3, HTML5, JavaScript, React, Redux, Webpack, styled-components, react-router, etc

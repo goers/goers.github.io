@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="xMidYMin meet" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="8" cy="8" r="7.5" fill="#FFFDFD" stroke="#F0F0F0"/>
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1" y="1" width="14" height="14">
+<circle cx="7.99991" cy="8" r="7" fill="#FFFDFD"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="-0.666656" y="-0.666504" width="16.6667" height="9.33333" fill="#D51212"/>
+</g>
+</svg>
