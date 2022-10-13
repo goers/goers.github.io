@@ -1,9 +1,0 @@
-User-agent: *
-Disallow:
-Disallow: /events/checkout
-Disallow: /movies/checkout
-Disallow: /orders/
-Disallow: /auth/
-Allow: /auth
-
-Sitemap: https://goersapp.com/sitemap.xml
